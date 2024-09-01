@@ -1,0 +1,19 @@
+{
+  "name": "complex_project",
+  "version": "1.0.0",
+  "description": "Backend in js learning through chai or code | youtube |complex_project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon complex_project/src/index.js"
+  },
+  "keywords": [
+    "Backend",
+    "javascript"
+  ],
+  "author": "Mohd Kabir",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
